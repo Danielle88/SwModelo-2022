@@ -1,2 +1,2 @@
 # SwModelo-2022
-Comandos GitFlow
+Exemplos de uso GitFlow
